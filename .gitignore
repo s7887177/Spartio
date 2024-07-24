@@ -75,5 +75,7 @@ crashlytics-build.properties
 *.unitypackage
 *.unitypackage.meta
 *SDF.asset
+*SDF.asset.meta
+
 # Sirenix
 /[Aa]ssets/Plugins/Sirenix/Demos/
